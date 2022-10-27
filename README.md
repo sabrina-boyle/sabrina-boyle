@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sabsing
-- 👀 I’m interested in bio-engineering, computer science, dancing, and singing
+- 👋 Hi, I’m @sabrina-boyle
+- 👀 I’m interested in bio-engineering, computer science, and dancing
 - 🌱 I’m currently learning git and other stuff
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me 
